@@ -1,0 +1,10 @@
+(function(){var loadHandler=window['sl_{F77FBE4E-A7F2-41D0-8E23-66C9486D80AA}'];loadHandler&&loadHandler(9, '<div id="spr0_1e589572"><div id="spr1_1e589572" class="kern slide"><img id="img5_1e589572" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1e589572" class="kern slide"><div id="spr3_1e589572"><div id="spr4_1e589572"><img id="img0_1e589572" src="data/img17.jpg" width="960" height="540" alt=""/></div></div><div id="spr5_1e589572" style="left:161.875px;top:151.871px;"><div style="width:0px;"><span id="txt0_1e589572" data-width="131.636719" style="left:7.2px;top:0.564px;">Pembahasan:</span></div></div><div id="spr6_1e589572" style="left:170px;top:193px;"><img id="img1_1e589572" src="data/img30.png" width="195" height="305" alt="Diketahui:\
+ 𝑞 1 =3𝜇𝐶=3× 10 −6 𝐶\
+ 𝑞 2 =1𝜇𝐶=1× 10 −6 𝐶\
+𝑟=9 𝑚\
+Jawab:\
+𝐹=𝑘  𝑞 1  𝑞 2   𝑟 2  \
+𝐹=𝑘 3× 10 −6 . 10 −6   9 2  \
+𝐹=𝑘 3× 10 −12   81 \
+𝐹= 1 27 𝑘× 10 −12 𝑁\
+"/></div><div id="spr7_1e589572" style="left:617.309px;top:205.292px;"><div id="spr8_1e589572"><img id="img2_1e589572" src="data/img31.png" width="169" height="95" alt="" style="left:0.047px;top:-0.076px;"/></div></div><div id="spr9_1e589572"><div id="spr10_1e589572"><img id="img3_1e589572" src="data/img6.png" width="88" height="47" alt="" style="left:8.234px;top:6.13px;"/></div></div><div id="spr11_1e589572" style="left:815.25px;top:453.919px;"><div id="spr12_1e589572"><a id="hl0_1e589572" href="#" onclick="document.getElementById(\'coreSpr_5800348\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_5800348\').getCore().playHyperlinkSound(\'sound10\', this);document.getElementById(\'coreSpr_5800348\').getCore().gotoNextSlide(this);return false;"><img id="img4_1e589572" src="data/img19.png" width="105" height="66" alt="" style="left:-0.095px;top:0.128px;"/></a></div></div></div></div>', '{"s":[]}');})();
